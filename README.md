@@ -1,5 +1,5 @@
 # Local_Shop_Management_Application
-This project is a Python and Tkinter based application for helping customers in the shop to select products to buy and at the same time easing the workload of the shopkeeper.
+This project is a Python and Tkinter based GUI application for helping customers in the shop to select products to buy and at the same time easing the workload of the shopkeeper.
 
 <br/><br/>
 The basic structure of the application is that first the shopkeeper registers itself, then the shopkeeper sets the name of the shop and adds the product file which contains product data in 4 columns with 1st row as headings (in order: Product Id, Product Category, Product Name, Price), then hit save and continue. Now the shopkeeper is registered, and need not register again unless needed to change something related to the shop. If the shopkeeper needs to change the shop data he can do so in the settings icon on the top right<br\>
